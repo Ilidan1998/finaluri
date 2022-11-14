@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aff4ad10-ba41-429b-8b16-92732da9f064" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/TEST.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chrome/ChempPageRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chrome/LogInRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Chrome/PlusPageRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataObject/ChampionsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataObject/LogInData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DataObject/PlusData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/ChampionsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/Loginpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/PageObject/PlusPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StepObject/ChempionsSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StepObject/LogInSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StepObject/PlusSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeagueOfLegends/ChempionSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeagueOfLegends/LogInTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LeagueOfLegends/PlusPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testing.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2H9g8v8OnU2wBeqekPG1mpwE9d8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/davaleba6&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.ChempionSearchTest">
+    <configuration name="ChempionSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeagueOfLegends.ChempionSearchTest" />
+      <module name="davaleba6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeagueOfLegends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChempionSearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="davaleba6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeagueOfLegends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeagueOfLegends" />
+      <option name="MAIN_CLASS_NAME" value="LeagueOfLegends.ChempionSearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlusPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="davaleba6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeagueOfLegends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeagueOfLegends" />
+      <option name="MAIN_CLASS_NAME" value="LeagueOfLegends.PlusPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ufgj" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="davaleba6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeagueOfLegends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeagueOfLegends" />
+      <option name="MAIN_CLASS_NAME" value="LeagueOfLegends.ufgj" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ufgj.asd" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="davaleba6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeagueOfLegends.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LeagueOfLegends" />
+      <option name="MAIN_CLASS_NAME" value="LeagueOfLegends.ufgj" />
+      <option name="METHOD_NAME" value="asd" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ChempionSearchTest" />
+        <item itemvalue="TestNG.PlusPageTest" />
+        <item itemvalue="TestNG.ufgj" />
+        <item itemvalue="TestNG.ufgj.asd" />
+        <item itemvalue="Application.ChempionSearchTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff4ad10-ba41-429b-8b16-92732da9f064" name="Changes" comment="" />
+      <created>1667702558518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667702558518</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
